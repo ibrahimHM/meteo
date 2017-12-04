@@ -1,0 +1,23 @@
+
+body{
+
+background-color:azure;
+background-size: auto;
+}
+
+div#haut {
+	width: 60%;
+	height: 60%;
+	float: left;
+	margin-left: 80px;
+	margin-top: 85px;
+	
+}
+
+div#bas {
+	width: 60%;
+	height: 30%;
+	float: left;
+	margin-left: 80px;
+	margin-bottom: 100px;
+}
