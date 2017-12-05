@@ -5,7 +5,7 @@ background-color:azure;
 background-size: auto;
 }
 
-div#haut {
+#haut {
 	width: 60%;
 	height: 60%;
 	float: left;
@@ -14,7 +14,7 @@ div#haut {
 	
 }
 
-div#bas {
+#bas {
 	width: 60%;
 	height: 30%;
 	float: left;
