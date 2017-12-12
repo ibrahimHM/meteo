@@ -6,7 +6,7 @@
 	</head>
 
 	<body>
-		<font face="arial">
+		<font face="verdana">
 
 			<div id="haut">
 
@@ -48,5 +48,6 @@
 				?>
 
 			</div>
-			</body>
-		</html>
+		</font>
+	</body>
+</html>
