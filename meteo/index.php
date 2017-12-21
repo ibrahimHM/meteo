@@ -15,12 +15,14 @@
 			<!-- On recueille le nom de la ville souhaitée -->
 				<form action="" method="post">
 
-					Ville: <input type="text" name="ville"><br>
+					<label for="ville">Ville :</label>
+					<input type="text" id="ville" name="ville"><br>
 					<br>
 					<!-- Valider permet d'accéder aux données meteo via l'api -->
 					<input type="submit" value="Afficher m&eacute;t&eacute;o" name="valider">
 					<!-- Réinitialiser -->
 					<input type="submit" value=" R&eacute;initialiser " name="reinitialiser">
+					
 				</form>
 				<br>
 			</div>
