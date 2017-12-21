@@ -1,23 +1,22 @@
 
 body{
-
-background-color:azure;
-background-size: auto;
+	border: 3px dashed pink;
+	background-color:azure;
+ 	width:50%; 
+	margin:0 auto;
+	padding:2em;
+	margin-top:1em;
+	margin-bottom:1em;
 }
 
-#haut {
-	width: 60%;
-	height: 60%;
-	float: left;
-	margin-left: 80px;
-	margin-top: 85px;
-	
+#haut{
+	text-align: left;
+	top:0;
+ 	left:0;
+	margin-left: 50px;
 }
 
-#bas {
-	width: 60%;
-	height: 30%;
-	float: left;
-	margin-left: 80px;
-	margin-bottom: 100px;
+#bas{
+	text-align: left;
+	margin-left: 50px;
 }
